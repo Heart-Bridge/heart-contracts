@@ -1,0 +1,16 @@
+polygon:
+  usdc:
+    address: '0x2791bca1f2de4661ed88a30c99a7a9449aa84174'
+    holder: '0xf977814e90da44bfa03b6295a0616a897441acec'
+    decimals: 6
+  link:
+    address: '0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39'
+    holder: '0x61167073e31b1dad85a3e531211c7b8f1e5cae72'
+    decimals: 18
+fantom:
+  usdc:
+    address: '0x04068DA6C83AFCFA0e13ba15A6696662335D5B75'
+    decimals: 6
+  link:
+    address: '0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8'
+    decimals: 18
